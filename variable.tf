@@ -3,4 +3,4 @@ variable "loc" {}
 variable "diskname" {}
 variable "create" {}
 variable "accounttype" {}
-variable "size"
+variable "size" {}
